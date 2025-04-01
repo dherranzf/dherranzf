@@ -22,12 +22,12 @@ I am always looking for new challenges where I can contribute my experience, lea
 
 ## 🎨 Technology Stack
 
-- **Languages**: Java, Solidity, TypeScript, JavaScript, SQL
+- **Languages**: Java, Solidity, TypeScript, Python, SQL
 - **Frameworks**: Spring Boot, Spring Cloud, React, Node
 - **DevOps & Cloud**: Docker, Swarm, Kubernetes, AWS
 - **Databases**: Oracle Database, MongoDB, Elasticsearch
 - **Integration**: REST & GraphQL APIs, SOAP, RabbitMQ
-- **Architecture**: Microservices, SOLID, Hexagonal Architecture
+- **Architecture**: Microservices, SOLID, Hexagonal Architecture, Design Patterns
 - **Blockchain Tools**: Foundry, Web3.js, Ethers.js
 - **Others**: Git, Maven, SonarQube, VSCode, Eclipse
 
@@ -48,7 +48,20 @@ Application for Temporal Visual Maps. developed in Python and JavaScript with Dj
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dherranzf&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dherranzf&layout=compact&theme=default&hide_title=true" height="150"/>
+</p>
+<!--p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dherranzf&show_icons=true&theme=default&hide_title=true" height="150"/>
+</p-->
+<!--p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dherranzf&theme=default" height="150"/>
+</p-->
+
+---
 
 ## 📩 Contact
 
