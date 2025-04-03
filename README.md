@@ -8,9 +8,11 @@
 
 👨‍💻 I am a **Software Engineer** with extensive experience in designing and implementing technological solutions focused on quality, scalability, and performance.  
 
+In this GitHub, I show some **personal projects** I have developed out of personal interest and as practice to inprove and explore new technologies. In addition to these, I have professionally contributed to critical and high-impact projects within the companies I have worked for.
+
 I am always looking for new challenges where I can contribute my experience, learn new things, and continue growing both professionally and personally.
 
-📜 Additionally, I hold official certifications that validate my knowledge in key technologies:
+📜 Additionally, I hold **official certifications** that validate my knowledge in key technologies:
 
 - [CKAD – Certified Kubernetes Application Developer](https://www.credly.com/badges/e7292229-9129-46a6-9994-5d6c694cc350)   
 - [GraphQL Developer – Associate & Professional](https://www.apollographql.com/tutorials/certifications/1db3f527-1924-4ab9-9844-b5878806bc6a)  
@@ -22,17 +24,17 @@ I am always looking for new challenges where I can contribute my experience, lea
 
 ## 🎨 Technology Stack
 
-- **Languages**: Java, Solidity, TypeScript, Python, SQL
-- **Frameworks**: Spring Boot, Spring Cloud, React, Node
-- **DevOps & Cloud**: Docker, Swarm, Kubernetes, AWS
-- **Databases**: Oracle Database, MongoDB, Elasticsearch
-- **Integration**: REST & GraphQL APIs, SOAP, RabbitMQ
-- **Architecture**: Microservices, SOLID, Hexagonal Architecture, Design Patterns
-- **Blockchain Tools**: Foundry, Web3.js, Ethers.js
-- **Others**: Git, Maven, SonarQube, VSCode, Eclipse
+- Languages: **Java, Solidity, TypeScript, Python, SQL**
+- Frameworks: **Spring Boot, Spring Cloud, React, Node**
+- DevOps & Cloud: **Docker, Swarm, Kubernetes, AWS**
+- Databases: **Oracle Database, MongoDB, Elasticsearch**
+- Integration: **REST & GraphQL APIs, SOAP, RabbitMQ**
+- Architecture: **Microservices, SOLID, Hexagonal Architecture, Design Patterns**
+- Blockchain Tools: **Foundry, Web3.js, Ethers.js**
+- Others: **Git, Maven, SonarQube, VSCode, Eclipse**
 
 ---
-
+<!--
 ## 🗂️ Featured Personal Projects
 
 🔹 [**NASA Mars Rovers GraphQL Server**](https://github.com/dherranzf/NASA-marsrovers-graphql-server)  
@@ -47,6 +49,7 @@ Application for Temporal Visual Maps. developed in Python and JavaScript with Dj
 > 🧩 These are some personal projects I have developed out of personal interest and as practice to explore new technologies. In addition to these, I have professionally contributed to **critical and high-impact projects** within the companies I have worked for.
 
 ---
+-->
 
 ## 📊 GitHub Stats
 
@@ -62,7 +65,7 @@ Application for Temporal Visual Maps. developed in Python and JavaScript with Dj
 </p-->
 
 ---
-
+<!--
 ## 📩 Contact
 
 <p>
@@ -75,3 +78,4 @@ Application for Temporal Visual Maps. developed in Python and JavaScript with Dj
     <img src="https://img.shields.io/badge/GitHub-dherranzf-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
+-->
