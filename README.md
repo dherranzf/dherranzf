@@ -8,7 +8,7 @@
 
 👨‍💻 I am a **Software Engineer** with extensive experience in designing and implementing technological solutions focused on quality, scalability, and performance.  
 
-In this GitHub, I show some **personal projects** I have developed out of personal interest and as practice to inprove and explore new technologies. In addition to these, I have professionally contributed to critical and high-impact projects within the companies I have worked for.
+In this GitHub, I show some **personal projects** I have developed out of personal interest and as practice to improve and explore new technologies. In addition to these, I have professionally contributed to critical and high-impact projects within the companies I have worked for.
 
 I am always looking for new challenges where I can contribute my experience, learn new things, and continue growing both professionally and personally.
 
