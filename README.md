@@ -54,8 +54,11 @@ Application for Temporal Visual Maps. developed in Python and JavaScript with Dj
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dherranzf&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dherranzf&layout=compact&theme=default&hide_title=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dherranzf&theme=transparent" height="250"/>
+  <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dherranzf&layout=compact&theme=default&hide_title=true" height="150"/-->
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dherranzf&theme=transparent&layout=compact" height="150"/>
 </p>
 <!--p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dherranzf&show_icons=true&theme=default&hide_title=true" height="150"/>
